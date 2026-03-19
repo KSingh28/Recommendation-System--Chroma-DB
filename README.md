@@ -1,5 +1,5 @@
 # Recommendation-System--Chroma-DB
-Create a food recommendation system- Utilize Chroma DB. The code os from IBM Lab
+Create a food recommendation system- Utilize Chroma DB. The code is from IBM Lab
 Part 1 Task 1: A. Install the Required Packages
 pip install numpy==2.3.1
 pip install scipy==1.16.0
